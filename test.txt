@@ -1,3 +1,4 @@
 sdfssome text
 more text
 in txt file
+line 4
